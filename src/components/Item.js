@@ -21,4 +21,4 @@ function Item({ name, category }) {
   );
 }
 
-export default Item;
+export default Item
